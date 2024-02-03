@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **Web, Mern**
 
-- 📫 How to reach me **mohsinjaved@gpcmail.com**
+- 📫 How to reach me **mohsinjavedpc@gmail.com**
 
 - ⚡ Fun fact **I am a programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mohsinjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin javed" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohsin-javed-08738b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin javed" height="30" width="40" /></a>
   <a href="https://fb.com/mohsinjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin javed" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/mohsinjavedpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohsinjavedpc" height="30" width="40" /></a>
 </p>
